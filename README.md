@@ -15,11 +15,11 @@ This Project Consists of:
 
 ## How to Make your Own Version
 
-1.Open an Empty activity Android Studio Project and give any name (TicTacToe in my case)
-2.After all the sync has Completed Go to "C:\Users\Admin\AndroidStudioProjects\TicTacToe\app\src\main\res\drawable" and Paste the Resources You will need
-3.Refer MainActivity.java for the logic
-4.Refer AndroidManifest.xml for the posotioning of the images
-5.Bundle the project into .apk
+1.Open an Empty activity Android Studio Project and give any name (TicTacToe in my case).
+2.After all the sync has Completed Go to "C:\Users\Admin\AndroidStudioProjects\TicTacToe\app\src\main\res\drawable" and Paste the Resources You will need.
+3.Refer MainActivity.java for the logic.
+4.Refer AndroidManifest.xml for the posotioning of the images.
+5.Bundle the project into .apk..
 
 And you're done !
 
