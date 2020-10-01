@@ -9,8 +9,9 @@ I have used some resources to make it look good But you can change them accordin
 
 This Project Consists of:
 1. MainActivity.java
-2. The Apk File
-3. The Resources used in projects (Image files)
+2. The .apk File
+3. The .xml File
+4. The Resources used in projects (Image files)
 
 ## How to Make your Own Version
 
