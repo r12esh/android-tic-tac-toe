@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-An open source Tic-Tac-Toe Android Studio Project.
+An open source Tic-Tac-Toe Android Studio Project.<br/>
 Download from here:
 https://github.com/r12esh/tic-tac-toe/raw/master/app-debug.apk
 
